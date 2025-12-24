@@ -1,2 +1,5 @@
 env
 .vscode
+MNIST
+bike_test.csv
+bike_train.csv
